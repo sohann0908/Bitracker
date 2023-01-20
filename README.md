@@ -2,7 +2,7 @@
 
 BitTracker is a mobile application built using the Flutter framework, which is an open-source framework for building high-performance, high-fidelity mobile apps for iOS and Android. The app is designed to track the prices of major cryptocurrencies. To achieve this, the app utilizes CoinAPI, which is a professional-grade API service that delivers accurate and reliable market data for the digital asset market.
 
-The app receives data from CoinAPI on the exchange rate of major cryptocurrencies such as Bitcoin, Ethereum, Litecoin, and others. The data received includes the current market price, historical price trends, and trading volume. The app then displays the prices of these cryptocurrencies in the selected currency, which can be chosen by the user. This allows the user to see the current value of the cryptocurrency in their local currency, making it easier for them to understand the value and make decisions about buying or selling.
+The app receives data from CoinAPI on the exchange rate of major cryptocurrencies such as Bitcoin, Ethereum, Litecoin, and others. The data received includes the current market price. The app then displays the prices of these cryptocurrencies in the selected currency, which can be chosen by the user. This allows the user to see the current value of the cryptocurrency in their local currency, making it easier for them to understand the value and make decisions about buying or selling.
 
 #Screenshots
 
